@@ -20,6 +20,7 @@
 
 # 🚀Tech Stack
 
+<div>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
@@ -35,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
      <img width="5" />  
  <img src="https://miro.medium.com/v2/resize:fit:700/0*iIVOaF0S_mFxtwZ6" height="40" alt="powerbi logo"  />  
+</div>
 
 #Stats
 
