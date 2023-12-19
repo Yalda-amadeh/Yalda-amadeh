@@ -38,7 +38,7 @@
  <img src="https://miro.medium.com/v2/resize:fit:700/0*iIVOaF0S_mFxtwZ6" height="40" alt="powerbi logo"  />  
 </div>
 
-#Stats
+# ⏱ Stats
 
 <div style="display:flex;" >
 <div width="200">
