@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yalda</h1>
-<h3 align="center">A passionate Data Analyst and BI Developer</h3>
+<h3 align="center">A passionate Data Analyst and AI Developer</h3>
+
 
 
 
